@@ -42,7 +42,7 @@ npm install
 3. Inicie o servidor:
 
 ```bash
-npm start
+node server.js
 ```
 
 Por padrão, o servidor será iniciado em `http://localhost:3000`.
